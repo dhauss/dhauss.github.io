@@ -67,7 +67,7 @@
 ![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
 ![PyTorch](https://a11ybadges.com/badge?logo=pytorch)
 ![TensorFlow](https://a11ybadges.com/badge?logo=tensorflow)
-<br>
+
 ![Amazon AWS](https://a11ybadges.com/badge?logo=amazonaws)
 ![Apache Airflow](https://a11ybadges.com/badge?logo=apacheairflow)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
@@ -81,6 +81,7 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![PostgreSQL](https://a11ybadges.com/badge?logo=postgresql)
 ![Snowflake](https://a11ybadges.com/badge?logo=snowflake)
+![Travis CI](https://a11ybadges.com/badge?logo=travisci)
 ![Ubuntu](https://a11ybadges.com/badge?logo=ubuntu)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
@@ -98,19 +99,27 @@
 
 ![Visual Object Detection And Autoencoding for Vector DB Similarity Queries](https://github.com/dhauss/csgy6613-assignments/tree/main/assignment-2)
 
+![TensorFlow](https://a11ybadges.com/badge?logo=tensorflow) ![Jupyter](https://a11ybadges.com/badge?logo=jupyter)
+
 ![Kalman Filter to Track Objects from Drone Footage](https://github.com/dhauss/csgy6613-assignments/tree/main/assignment-3)
+
+![PyTorch](https://a11ybadges.com/badge?logo=pytorch) ![Jupyter](https://a11ybadges.com/badge?logo=jupyter)
 
 ![Fullstack Django/React Applicaton for Neighborhood Crawls](https://github.com/dhauss/INET-Monday-Spring2023-Team-3)
 
-![Django](https://a11ybadges.com/badge?logo=django)
+![Django](https://a11ybadges.com/badge?logo=django) ![Travis CI](https://a11ybadges.com/badge?logo=travisci)
 
 ![Using Spark Queries for Hardware Anomaly Detection](https://github.com/dhauss/big_data/tree/main/Midterm/Anomaly_Detection)
+
+![Apache Spark](https://a11ybadges.com/badge?logo=apachespark)
 
 ![Bigram Counting and Probability Calculations with Hadoop MapReduce](https://github.com/dhauss/big_data/tree/main/Assignment1)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ![Learning Golang](https://github.com/dhauss/gophercises)
+
+![Go](https://a11ybadges.com/badge?logo=go)
 
 <p align="left">
   <a href="https://github.com/dhauss?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
