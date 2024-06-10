@@ -100,9 +100,13 @@
 
 ![Fullstack Django/React Applicaton for Neighborhood Crawls](https://github.com/dhauss/INET-Monday-Spring2023-Team-3)
 
+![Django](https://a11ybadges.com/badge?logo=django)
+
 ![Using Spark Queries for Hardware Anomaly Detection](https://github.com/dhauss/big_data/tree/main/Midterm/Anomaly_Detection)
 
 ![Bigram Counting and Probability Calculations with Hadoop MapReduce](https://github.com/dhauss/big_data/tree/main/Assignment1)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ![Learning Golang](https://github.com/dhauss/gophercises)
 
