@@ -74,7 +74,6 @@
 ## Open Source Contributions
 
 <a href="https://github.com/cncf/tag-security/blob/main/assessments/projects/rook/self-assessment.md"> CNCF Rook Security Assessment
-<img src="https://github.com/cncf/tag-security/blob/main/assessments/projects/rook/self-assessment.md" alt="CNCF Rook Security Assessment">
 </a>
 <br></br>
 ![Kubernetes](https://a11ybadges.com/badge?logo=kubernetes)
