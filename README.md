@@ -80,32 +80,45 @@
 
 ## Personal Projects
 
-![Kafka/OpenSearch Pipeline for Log Anomaly Detection](https://github.com/dhauss/kafka_opensearch_pipeline)
+<a href="https://github.com/dhauss/kafka_opensearch_pipeline">
+Kafka/OpenSearch Pipeline for Log Anomaly Detection</a>
+<br></br>
 
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white) ![Elasticsearch](https://a11ybadges.com/badge?logo=elasticsearch)
 
-![Visual Object Detection And Autoencoding for Vector DB Similarity Queries](https://github.com/dhauss/csgy6613-assignments/tree/main/assignment-2)
+<a href="https://github.com/dhauss/csgy6613-assignments/tree/main/assignment-2">
+Visual Object Detection And Autoencoding for Vector DB Similarity Queries</a>
+<br></br>
 
 ![TensorFlow](https://a11ybadges.com/badge?logo=tensorflow) ![Jupyter](https://a11ybadges.com/badge?logo=jupyter)
 
-![Kalman Filter to Track Objects from Drone Footage](https://github.com/dhauss/csgy6613-assignments/tree/main/assignment-3)
+<a href="https://github.com/dhauss/csgy6613-assignments/tree/main/assignment-3">
+Using Kalman Filter to Track Objects from Drone Footage</a>
+<br></br>
 
 ![PyTorch](https://a11ybadges.com/badge?logo=pytorch) ![Jupyter](https://a11ybadges.com/badge?logo=jupyter)
 
-![Fullstack Django/React Applicaton for Neighborhood Crawls](https://github.com/dhauss/INET-Monday-Spring2023-Team-3)
+<a href="https://github.com/dhauss/INET-Monday-Spring2023-Team-3">
+Fullstack Django/React Applicaton for Neighborhood Crawls</a>
+<br></br>
 
 ![Django](https://a11ybadges.com/badge?logo=django) ![Travis CI](https://a11ybadges.com/badge?logo=travisci)
 
-![Using Spark Queries for Hardware Anomaly Detection](https://github.com/dhauss/big_data/tree/main/Midterm/Anomaly_Detection)
+<a href="https://github.com/dhauss/big_data/tree/main/Midterm/Anomaly_Detection">
+Using Spark Queries for Hardware Anomaly Detection</a>
+<br></br>
 
 ![Apache Spark](https://a11ybadges.com/badge?logo=apachespark)
 
-![Bigram Counting and Probability Calculations with Hadoop MapReduce](https://github.com/dhauss/big_data/tree/main/Assignment1)
+<a href="https://github.com/dhauss/big_data/tree/main/Assignment1">
+Bigram Counting and Probability Calculations with Hadoop MapReduce</a>
+<br></br>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-![Learning Golang](https://github.com/dhauss/gophercises)
-
+<a href="https://github.com/dhauss/gophercises">
+Learning Golang</a>
+<br></br>
 ![Go](https://a11ybadges.com/badge?logo=go)
 
 ## Other Projects
