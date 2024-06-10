@@ -49,7 +49,7 @@
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
  ✌️ &emsp; I am focused on data engineering and computer vision <br/><br/>
- ❤️ &emsp; Love writing code and learning new features<br/><br/>
+ ❤️ &emsp; I love writing code and learning new tools<br/><br/>
  📧 &emsp; Reach me anytime: davidkhauss@gmail.com<br/><br/>
 
 </p>
@@ -132,13 +132,13 @@
 
 <p align="center">
   <a href="https://github.com/dhauss">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhauss&theme=radical&border=7F3FBF&background=0D1117" alt="Dave's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/dhauss">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsiam&theme=radical" alt="Dave's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhauss&theme=radical" alt="Dave's GitHub Contribution"/>
   </a>
 </p>
 
@@ -148,4 +148,4 @@
   <br/>
 </a>
 
-![Dave's Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhauss&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Dave's Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhauss&custom_title=Dave%20Hausss%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
