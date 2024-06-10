@@ -75,6 +75,10 @@
 
 ![CNCF Rook Security Assessment](https://github.com/cncf/tag-security/blob/main/assessments/projects/rook/self-assessment.md)
 
+<a href="https://github.com/cncf/tag-security/blob/main/assessments/projects/rook/self-assessment.md">
+  <img src="https://github.com/cncf/tag-security/blob/main/assessments/projects/rook/self-assessment.md" alt="CNCF Rook Security Assessment">
+</a>
+
 ![Kubernetes](https://a11ybadges.com/badge?logo=kubernetes)
 
 ## Personal Projects
