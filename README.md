@@ -121,6 +121,8 @@
 
 ![Go](https://a11ybadges.com/badge?logo=go)
 
+## Other Projects
+
 <p align="left">
   <a href="https://github.com/dhauss?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
