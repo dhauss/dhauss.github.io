@@ -94,6 +94,8 @@
 
 ![Kafka/OpenSearch Pipeline for Log Anomaly Detection](https://github.com/dhauss/kafka_opensearch_pipeline)
 
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white) ![Elasticsearch](https://a11ybadges.com/badge?logo=elasticsearch)
+
 ![Visual Object Detection And Autoencoding for Vector DB Similarity Queries](https://github.com/dhauss/csgy6613-assignments/tree/main/assignment-2)
 
 ![Kalman Filter to Track Objects from Drone Footage](https://github.com/dhauss/csgy6613-assignments/tree/main/assignment-3)
