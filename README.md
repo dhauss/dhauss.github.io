@@ -119,6 +119,7 @@ Bigram Counting and Probability Calculations with Hadoop MapReduce</a>
 <a href="https://github.com/dhauss/gophercises">
 Learning Golang</a>
 <br>
+
 ![Go](https://a11ybadges.com/badge?logo=go)
 
 ## Other Projects
