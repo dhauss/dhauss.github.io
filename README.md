@@ -12,7 +12,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a software engineer with an MSCS from NYU 」
+    「 I'm a software engineer with an MSCS from NYU 」
     <br>
     <br>
   </samp>
@@ -73,6 +73,8 @@
 ## Open Source Contributions
 
 ![CNCF Rook Security Assessment](https://github.com/cncf/tag-security/blob/main/assessments/projects/rook/self-assessment.md)
+
+![Kubernetes](https://a11ybadges.com/badge?logo=kubernetes)
 
 ## Personal Projects
 
