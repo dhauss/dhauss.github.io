@@ -92,11 +92,17 @@
 ## Personal Projects
 
 ![Kafka/OpenSearch Pipeline for Log Anomaly Detection](https://github.com/dhauss/kafka_opensearch_pipeline)
+
 ![Visual Object Detection And Autoencoding for Vector DB Similarity Queries](https://github.com/dhauss/csgy6613-assignments/tree/main/assignment-2)
+
 ![Kalman Filter to Track Objects from Drone Footage](https://github.com/dhauss/csgy6613-assignments/tree/main/assignment-3)
+
 ![Fullstack Django/React Applicaton for Neighborhood Crawls](https://github.com/dhauss/INET-Monday-Spring2023-Team-3)
+
 ![Using Spark Queries for Hardware Anomaly Detection](https://github.com/dhauss/big_data/tree/main/Midterm/Anomaly_Detection)
+
 ![Bigram Counting and Probability Calculations with Hadoop MapReduce](https://github.com/dhauss/big_data/tree/main/Assignment1)
+
 ![Learning Golang](https://github.com/dhauss/gophercises)
 
 <p align="left">
