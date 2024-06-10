@@ -63,6 +63,7 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://a11ybadges.com/badge?logo=go)
 ![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
 ![PyTorch](https://a11ybadges.com/badge?logo=pytorch)
 ![TensorFlow](https://a11ybadges.com/badge?logo=tensorflow)
