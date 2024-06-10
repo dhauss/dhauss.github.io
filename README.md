@@ -69,56 +69,56 @@
 ![Ubuntu](https://a11ybadges.com/badge?logo=ubuntu)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
-<br/>
+<br>
 
 ## Open Source Contributions
 
 <a href="https://github.com/cncf/tag-security/blob/main/assessments/projects/rook/self-assessment.md"> CNCF Rook Security Assessment
 </a>
-<br>
+<br><br>
 ![Kubernetes](https://a11ybadges.com/badge?logo=kubernetes)
 
 ## Personal Projects
 
 <a href="https://github.com/dhauss/kafka_opensearch_pipeline">
 Kafka/OpenSearch Pipeline for Log Anomaly Detection</a>
-<br>
+<br><br>
 
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white) ![Elasticsearch](https://a11ybadges.com/badge?logo=elasticsearch)
 
 <a href="https://github.com/dhauss/csgy6613-assignments/tree/main/assignment-2">
 Visual Object Detection And Autoencoding for Vector DB Similarity Queries</a>
-<br>
+<br><br>
 
 ![TensorFlow](https://a11ybadges.com/badge?logo=tensorflow) ![Jupyter](https://a11ybadges.com/badge?logo=jupyter)
 
 <a href="https://github.com/dhauss/csgy6613-assignments/tree/main/assignment-3">
 Using Kalman Filter to Track Objects from Drone Footage</a>
-<br>
+<br><br>
 
 ![PyTorch](https://a11ybadges.com/badge?logo=pytorch) ![Jupyter](https://a11ybadges.com/badge?logo=jupyter)
 
 <a href="https://github.com/dhauss/INET-Monday-Spring2023-Team-3">
 Fullstack Django/React Applicaton for Neighborhood Crawls</a>
-<br>
+<br><br>
 
 ![Django](https://a11ybadges.com/badge?logo=django) ![Travis CI](https://a11ybadges.com/badge?logo=travisci)
 
 <a href="https://github.com/dhauss/big_data/tree/main/Midterm/Anomaly_Detection">
 Using Spark Queries for Hardware Anomaly Detection</a>
-<br>
+<br><br>
 
 ![Apache Spark](https://a11ybadges.com/badge?logo=apachespark)
 
 <a href="https://github.com/dhauss/big_data/tree/main/Assignment1">
 Bigram Counting and Probability Calculations with Hadoop MapReduce</a>
-<br>
+<br><br>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 <a href="https://github.com/dhauss/gophercises">
 Learning Golang</a>
-<br>
+<br><br>
 
 ![Go](https://a11ybadges.com/badge?logo=go)
 
