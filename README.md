@@ -51,7 +51,7 @@
  ✌️ &emsp; I am focused on data engineering and computer vision <br/><br/>
  ❤️ &emsp; Love writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: davidkhauss@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/dhauss/dhauss/issues)
+ 💬 &emsp; Ask me about anything [here](https://github.com/dhauss/issues)
 
 </p>
 
