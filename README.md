@@ -59,7 +59,7 @@
 <br/>
 <br/>
 
-## Use To Code
+## Coding Toolkit
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -85,9 +85,9 @@
 
 <br/>
 
-## Top Open Source -
+## Open Source Contributions -
 
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=dhauss&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/dhauss/itasks)
+[![iTasks](https://github.com/cncf/tag-security/blob/main/assessments/projects/rook/self-assessment.md)
 [![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=dhauss&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/dhauss/urfolio)
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=dhauss&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/dhauss/web-projects)
 [![Dave Readme](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=dhauss&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/dhauss/dhauss)
