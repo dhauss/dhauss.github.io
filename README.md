@@ -64,17 +64,24 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
+![PyTorch](https://a11ybadges.com/badge?logo=pytorch)
+![TensorFlow](https://a11ybadges.com/badge?logo=tensorflow)
+<br>
+![Amazon AWS](https://a11ybadges.com/badge?logo=amazonaws)
 ![Apache Airflow](https://a11ybadges.com/badge?logo=apacheairflow)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Apache Spark](https://a11ybadges.com/badge?logo=apachespark)
 ![Apache Maven](https://a11ybadges.com/badge?logo=apachemaven)
 ![Databricks](https://a11ybadges.com/badge?logo=databricks)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Django](https://a11ybadges.com/badge?logo=django)
+![Docker](https://a11ybadges.com/badge?logo=docker)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![PostgreSQL](https://a11ybadges.com/badge?logo=postgresql)
 ![Snowflake](https://a11ybadges.com/badge?logo=snowflake)
+![Ubuntu](https://a11ybadges.com/badge?logo=ubuntu)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
 
