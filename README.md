@@ -30,7 +30,8 @@
 # About me
 
 <p>
- <iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+ <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Coding gif" />
+ 
   
  ✌️ &emsp; I am focused on data engineering and computer vision <br/><br/>
  ❤️ &emsp; I love writing code and learning new tools<br/><br/>
